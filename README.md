@@ -12,7 +12,7 @@ In this work, we propose a training framework ITSM-GCN, which mainly consists of
 
 ## Instruction
 
-Directly run the file code/main.py to get the results on the Gowalla dataset. We also provide our log file about Gowalla in LightGCN-DNS-1859-si-1884-sc-1895.txt. Please refer to the hyperparameter settings provided in the original paper for the results of other datasets. 
+Directly run the file `code/main.py` to get the results on the Gowalla dataset. We also provide our log file about Gowalla in `LightGCN-DNS-1859-si-1884-sc-1895.txt`. Please refer to the hyperparameter settings provided in the original paper for the results of other datasets. 
 
 
 ## Acknowledgement
